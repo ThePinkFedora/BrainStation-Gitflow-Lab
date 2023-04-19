@@ -15,6 +15,11 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Damien",
+    poem: "Roses are red \n Violets are blue \n JavaScript says 1 == true",
+    image: "ocelot.jpg",
+  },
+  {
     author: "Tess",
     poem: "Roses are red \n violets are blue \n the world was not prepared for the masterpiece: Shrek 2",
     image: "Shrek.jpeg",
